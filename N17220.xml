@@ -117,8 +117,9 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:022235_0000_0FB76F3247210320"/>
-            <pb facs="tcp:022235_0001_0FB76F3610B70D80" rendition="simple:additions"/>
+            <pb facs="unknown:022235_0000_0FB76F3247210320"/>
+            <pb facs="unknown:022235_0001_0FB76F3610B70D80"
+                rendition="simple:additions"/>
             <head>
                <figure/>
 Life, Laſt Words and Dying <hi>CONFESSION,</hi> OF RACHEL WALL, Who, with <hi>William Smith</hi> and <hi>William Dunogan,</hi> were executed at BOSTON, on Thurſday, <date>October 8, 1789</date>, for HIGH-WAY ROBBERY.</head>
